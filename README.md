@@ -1,4 +1,4 @@
-# onyamenkae
+# Onyame Nkae
 
 A new Flutter application.
 
